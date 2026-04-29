@@ -1,6 +1,6 @@
-# 🔐 Random Password Generator
+# Random Password Generator
 
-**Автор:** Иван Иванов
+**Автор:** Летфуллин Роман Рамисович
 
 ## Описание программы
 
